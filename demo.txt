@@ -1,1 +1,2 @@
 Hi, this is demo.txt file.
+Hello, this is new changes in remote branch.
